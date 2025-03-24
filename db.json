@@ -1,9 +1,18 @@
 {
-  "code": 1,
-  "text": "success",
-  "data": 
-  {
-    "Challenge code" :123
+  "code": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    }
+  ],
+  "text": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "data": {
+    "name": "typicode"
   }
 }
-
